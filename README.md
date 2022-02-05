@@ -1,0 +1,2 @@
+# factorial
+C++ factorial program
