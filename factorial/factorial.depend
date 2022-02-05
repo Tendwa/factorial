@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1624352554 source:/home/tendwa/factory/c++ projects/factorial/main.cpp
+	<iostream>
+
